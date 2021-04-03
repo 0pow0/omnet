@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/org.omnetpp.cdt.gnu.config.release.708846711/CFLAGS/delimiter=\:
+environment/project/org.omnetpp.cdt.gnu.config.release.708846711/CFLAGS/operation=replace
+environment/project/org.omnetpp.cdt.gnu.config.release.708846711/CFLAGS/value=-fPIC -Wl --no-undefined
+environment/project/org.omnetpp.cdt.gnu.config.release.708846711/append=true
+environment/project/org.omnetpp.cdt.gnu.config.release.708846711/appendContributed=true
